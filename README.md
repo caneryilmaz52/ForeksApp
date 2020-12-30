@@ -7,7 +7,6 @@ Basit Bir Kripto Para Birimleri Takibi Uygulaması
 ## Kullanılan Teknolojiler
 
 - [Retrofit](https://square.github.io/retrofit/)
-- [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
 - [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
 - [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room)
