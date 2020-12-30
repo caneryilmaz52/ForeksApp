@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/coinListFragment"
+        android:icon="@drawable/ic_money_white_18dp"
+        android:title="Birimler" />
+    <item
+        android:id="@+id/favoriteCoinsFragment"
+        android:icon="@drawable/ic_favorite_white_18dp"
+        android:title="Favoriler" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings_white_18dp"
+        android:title="Ayarlar" />
+</menu>
